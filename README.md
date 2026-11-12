@@ -2,7 +2,7 @@
 
 <img src="media/icon.png" width="112" alt="Decklingo icon">
 
-# Decklingo: AI Translate-Cards
+# Decklingo: AI Translate &amp; Cards
 
 **Translate with AI, save the words you meet and learn them with spaced repetition.**
 
